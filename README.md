@@ -1,0 +1,6 @@
+- 🧑🏼 My name is Jacob DeMuth and I am 23 years old 🧑🏼
+- 👨🏼‍🎓 I have a Bachelor's and Master's in Information Technology 👨🏼‍🎓
+- 👨🏼‍💻 My strongest language is Python however my other languages are PHP, JavaScript, and C# 👨🏼‍💻
+- 💡 I've work on a variety of both academic and personal projects which you can find on my Github 💡
+- 👾💪🏼📈 My favorite activities include video games, working out, and stock trading 📈💪🏼👾
+- 🙌🏼 Enjoy your stay! 🙌🏼
